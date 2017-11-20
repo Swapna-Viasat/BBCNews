@@ -21,6 +21,6 @@ Strings are hardcoded Comments are lacking No error checking Exceptions not hand
 
 Time ran out just when lots more features could be added such as:
 
-cardviews,Recycler view. At present all the days are just displayed in Listview.
+cardviews,Recycler view. At present all the news are just displayed in Listview.
 
  Third party libraries not been used.Love to use Recycler View,Retrofit,Butterknife,Volley,Glide
